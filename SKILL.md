@@ -1,5 +1,5 @@
 ---
-name: infra-docker-compose-nginx
+name: minia-docker-compose-nginx
 description: "Use when building, reviewing, or modifying infrastructure for Docker Compose + Nginx deployments, backend API runtime topology, Nginx gatewaying, Vault-backed secrets, TLS/Certbot, PgBouncer, Redis, observability stack, deterministic deploys, graceful shutdown, scale tiers, or Kubernetes upgrade planning."
 ---
 

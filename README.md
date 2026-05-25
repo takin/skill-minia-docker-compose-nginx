@@ -1,10 +1,10 @@
-# infra-docker-compose-nginx
+# minia-docker-compose-nginx
 
 OpenCode skill for reviewing, building, and modifying Docker Compose + Nginx infrastructure.
 
 ## Purpose
 
-This repository contains the `infra-docker-compose-nginx` skill definition. It captures the infrastructure baseline for VPS-first deployments that use Docker Compose, Nginx, Certbot, PgBouncer, Redis, PostgreSQL, and observability services.
+This repository contains the `minia-docker-compose-nginx` skill definition. It captures the infrastructure baseline for VPS-first deployments that use Docker Compose, Nginx, Certbot, PgBouncer, Redis, PostgreSQL, and observability services.
 
 Use this skill when working on:
 
